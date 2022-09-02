@@ -1,4 +1,4 @@
-*Online Shop*
+# Online Shop
 
 This project is done only for portfolio purposes in order to show my skills and abilities.
 
